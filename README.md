@@ -1,12 +1,15 @@
 # leading-causes-of-death-US-app
 
-Created using datamaps.js and d3.js
+Created using node.js, datamaps.js and d3.js
+____________________________________________
 
-Clone the repository
+Steps to Run:
 
-Ensure you have node.js installed in the repo
+1. Clone the repository
 
-Run `node start -s` at the src directory in the extracted files
+2. Ensure you have node.js installed in the repo, otherwise install nodeJS using npm 
+
+3. Run `node start -s` at the src directory in the extracted files
 
 Demo:
 ![](https://github.com/sakethsaxena/leading-causes-of-death-US-app/blob/master/leading_causes_of_death.gif)
