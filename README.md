@@ -9,4 +9,4 @@ Ensure you have node.js installed in the repo
 Run `node start -s` at the src directory in the extracted files
 
 Demo:
-![alt text](https://github.com/sakethsaxena/leading-causes-of-death-US-app/leading_causes_of_death.gif "Leading Causes of Death in US")
+![](https://github.com/sakethsaxena/leading-causes-of-death-US-app/blob/master/leading_causes_of_death.gif)
