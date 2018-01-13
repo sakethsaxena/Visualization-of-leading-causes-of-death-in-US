@@ -1,0 +1,75 @@
+.links line {
+    stroke: #999;
+    stroke-opacity: 0.6;
+  }
+  
+  .nodes circle {
+    stroke: #fff;
+    stroke-width: 1.5px;
+  }
+  
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow: hidden;
+}
+
+header{
+  color: #1B1B2A;
+  font-size:25px;
+  top: 10px;
+}
+
+#mapContainer{
+  position : relative;
+   width: 90vw; 
+   height: 90vh;
+   margin-top:0;
+}
+
+
+.modal-dialog{
+  max-width: 70vw;
+  margin:20;
+}
+.modal-content{
+  width:auto;
+  margin: auto;
+}
+
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: orange;
+}
+
+.bar:hover {
+  fill: orangered ;
+  cursor: crosshair;
+}
+.d3-tooltip {
+  background-color: palegreen;
+  z-index: 10000;
+}
+
+
+#inputContainer{
+  float: right;
+  right: 0px;
+  top: 40px;
+}
+
+.selectEl{
+  position: relative;
+  right:-20px;
+  z-index:1000;
+}
+
+#overviewTable{
+  top:50px;
+}
