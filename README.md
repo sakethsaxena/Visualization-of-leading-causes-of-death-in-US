@@ -1,4 +1,4 @@
-# Visualization of the Leading Causes of Death in the United States
+# Visualization of the Leading Causes of Death in the United States using d3.js, datamaps.js and node.js
 
 ![San Jose State University](https://i.imgur.com/cShW5MA.gif?1)
 ![..](https://i.imgur.com/QIGOoLy.png?1)
